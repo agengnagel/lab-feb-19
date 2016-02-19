@@ -94,14 +94,14 @@ h2 {
   float: left;
   width: 30%;
   margin: 37px 50px 30px 60px;
-  line-height: 32px;
+  line-height: 31px;
   list-style: none;
 }
 .right-list{
   font-family: 'Handlee', cursive;
   float: right;
   margin: 37px 60px 30px 30px;
-  line-height: 32px;
+  line-height: 31px;
   list-style: none;
 }
 ul li {
@@ -109,6 +109,11 @@ ul li {
   background-position: 0px 8px;
   background-image: url("assets/check-no.png");
   background-repeat: no-repeat;
+  cursor: pointer;
+}
+ul li.checked {
+  text-decoration: line-through;
+  background-image: url("assets/check-yes.png");
 }
 .author{
   padding-top: 20px;
