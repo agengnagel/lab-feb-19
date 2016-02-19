@@ -1,0 +1,37 @@
+* {
+  border: dashed, black, 2px;
+}
+.containter {
+  width: 900px;
+}
+head {
+  padding-bottom: 32px;
+  border:
+}
+.logo {
+  float: left;
+}
+.social-links {
+  float: right;
+}
+h1 {
+
+}
+.posted {
+  float: left;
+}
+.recipe-title {
+
+}
+.print{
+  float: right;
+}
+.main-img{
+
+}
+.content{
+
+}
+.recipe{
+
+}
