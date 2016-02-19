@@ -122,6 +122,7 @@ ul li {
 .bio {
   float:left;
   margin-left: 15px;
+  color: #3E3E3E;
   width: 70%;
 }
 h3{
@@ -137,6 +138,7 @@ h3{
   border: 1px solid #BC7058;
   padding: 15px 30px 15px 30px;
   background-color: #BC7058;
+  text-decoration: none;
 }
 footer img {
   position: absolute;
